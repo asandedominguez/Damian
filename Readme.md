@@ -10,6 +10,10 @@ Estas herramientas nos permiten acceder a información de manera **_rápida, cla
 2. **¿Como nos afecta?** Sin embargo, también nos plantea retos. El uso excesivo de la IA puede reducir el esfuerzo crítico y la capacidad de resolver problemas por nosotros mismos si no se emplea con equilibrio. Por ello, lo importante no es solo utilizar la tecnología, sino aprender a convivir con ella de forma consciente, recordando siempre que:
 > la herramienta no sustituye al aprendizaje, solo lo acompaña.
 
+3. **¿Que podemos aprender?** Lo que podemos aprender de la IA va más allá de los contenidos académicos: nos enseña a cuestionar, a contrastar información y a desarrollar habilidades como la creatividad y el pensamiento crítico. Así, la inteligencia artificial se convierte en un apoyo valioso, siempre que recordemos que el verdadero aprendizaje sigue dependiendo de la curiosidad y el esfuerzo humano.
+
+Si quiere encontrar mas información puede acceder al siguiente sitio web: [link](https://www.educaopen.com/digital-lab/blog/inteligencia-artificial/como-afecta-la-inteligencia-artificial-al-ser-humano)
+
 
 
 
