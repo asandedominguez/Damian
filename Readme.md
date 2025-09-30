@@ -16,7 +16,7 @@ Estas herramientas nos permiten acceder a información de manera **_rápida, cla
 
 ![imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s)
 
-**¿Le a servido esta información?**
+**¿Le a servido esta información?**:EMOJICODE:@octocat :+1:
 - [x] Si
 - [ ] No
 
