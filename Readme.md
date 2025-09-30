@@ -14,7 +14,7 @@ Estas herramientas nos permiten acceder a información de manera **_rápida, cla
 
 </br>Si quiere encontrar mas información sobre el tema puede acceder al siguiente sitio web: [link](https://www.educaopen.com/digital-lab/blog/inteligencia-artificial/como-afecta-la-inteligencia-artificial-al-ser-humano)
 
-[imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s)
+![imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s)
 
 
 
