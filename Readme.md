@@ -1,4 +1,4 @@
-# <sup>Influencia de las IA's en el aprendizaje humano.</sup>
+# <sup>Influencia de las IA's en el aprendizaje humano.</sup>[^1]
 ## <sub>¿Como nos afecta?</sub>
 ### <sub>¿Que podemos aprender?</sub>
 
