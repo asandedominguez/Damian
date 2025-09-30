@@ -12,8 +12,8 @@ Estas herramientas nos permiten acceder a información de manera **_rápida, cla
 
 3. **¿Que podemos aprender?** Lo que podemos **aprender** de la <ins>IA</ins> va más allá de los **contenidos académicos**: nos enseña a **_cuestionar, a contrastar información y a desarrollar habilidades como la creatividad y el pensamiento crítico_**. Así, la <ins>inteligencia artificial</ins> se convierte en un **apoyo valioso**, siempre que recordemos que el verdadero aprendizaje sigue dependiendo de la curiosidad y el esfuerzo humano.
 
-Si quiere encontrar mas información sobre el tema puede acceder al siguiente sitio web: [link](https://www.educaopen.com/digital-lab/blog/inteligencia-artificial/como-afecta-la-inteligencia-artificial-al-ser-humano)
-
+</br>Si quiere encontrar mas información sobre el tema puede acceder al siguiente sitio web: [link](https://www.educaopen.com/digital-lab/blog/inteligencia-artificial/como-afecta-la-inteligencia-artificial-al-ser-humano)
+</br>![imagen](https://mail.google.com/mail/u/0?ui=2&ik=cc91877347&attid=0.1&permmsgid=msg-a:r-9156553303695117289&th=19961cbf752df47e&view=fimg&fur=ip&permmsgid=msg-a:r-9156553303695117289&sz=s0-l75-ft&attbid=ANGjdJ8L8mt3ieaykcZfl0IB4_BJEpr_8FT4Sd-nJ5CUi9EhVueGci4KkNimcXJizujrX9-2v7tQreaQ81e-aLjuWpiJRzTNpLEq_c_KxyAdji2v2P9oxeihy5UWbNw&disp=emb&realattid=6371DB73-DC16-416F-9920-4CDD98BE0324&zw)
 
 
 
